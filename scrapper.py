@@ -18,6 +18,7 @@ STEPS:
 	3. Create a list of all available pages (pagination)
 	4. Loop over all pages
 	5. Save all user's data to csv
+	crated by hari 
 '''
 
 #################################################################
